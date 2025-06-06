@@ -1,14 +1,14 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route  } from 'react-router-dom';
-import Home from './components/Home';
-import AboutUs from './components/AboutUs';
-import Contact from './components/Contact';
-import Villas from './components/Villa/Villas';
-import SingleVilla from './components/Villa/SingleVilla';
-import TermsAndConditions from './components/TermsAndConditions/TermsAndConditions';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer'
-import './App.css';
+import Home from '/src/components/Home';
+import AboutUs from '/src/components/AboutUs';
+import Contact from '/src/components/Contact';
+import Villas from '/src/components/Villa/Villas';
+import SingleVilla from '/src/components/Villa/SingleVilla';
+import TermsAndConditions from '/src/components/TermsAndConditions/TermsAndConditions';
+import Navbar from '/src/components/Navbar';
+import Footer from '/src/components/Footer'
+import '/src/App.css';
 
 const App = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import {villas} from '../../Villas/';
+import {villas} from '/src/Villas';
 import { RxDot } from "react-icons/rx";
 import { IoIosPeople } from "react-icons/io";
 import { FaBed } from "react-icons/fa";

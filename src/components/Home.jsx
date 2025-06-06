@@ -1,12 +1,12 @@
 
 import React from "react";
-import HeroSection from "../SubComponents/HeroSection";
-import TopVillas from "../SubComponents/TopVillas";
-import Regions from "../SubComponents/Regions";
-import OurSpecialities from "../SubComponents/OurSpecialities";
-import Host from "../SubComponents/Host";
-import About from "../SubComponents/About";
-import Contact from "../SubComponents/Contact";
+import HeroSection from "/src/SubComponents/HeroSection";
+import TopVillas from "/src/SubComponents/TopVillas";
+import Regions from "/src/SubComponents/Regions";
+import OurSpecialities from "/src/SubComponents/OurSpecialities";
+import Host from "/src/SubComponents/Host";
+import About from "/src/SubComponents/About";
+import Contact from "/src/SubComponents/Contact";
 
 
 const Home = () => {
