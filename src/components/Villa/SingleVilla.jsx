@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from "react-router-dom";
-import { villas } from "../../villas";
+import { villas } from "/src/Villas";
 
 const SingleVilla = () => {
     const { id } = useParams();
